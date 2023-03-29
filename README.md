@@ -17,17 +17,19 @@ Se dobbiamo confrontare qualcosa che “cosa” ci serve?
 
 **Step Mail**
 
-1.Creo un'area di testo. es: Prompt o una select 
-1.Salvo i dati 
-1.Creo un array con varie mail
-1.Controllo sul mio array se la mail è arrivata
-1.Mando un messaggio con l'esito del controllo
+1.creo le variabili e una lista array di email
+
+1.chiedo all utente di inserire la sua email 
+
+1.cerco la sua email nella lista
+
+1.//se presente stampo che è possibile accedere, sennò che non è possibile
+
 
 **Step Dadi**
 
-1.
-1.
-1.
-1.
-1.
-1.
+1.genero un numero random abbinato all'user, clickando un bottone
+
+1.faccio generare un numero random anche al computer
+
+1.confronto i dati per stabilire chi vince con il punteggio più alto e stampo l'output
